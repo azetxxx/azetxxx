@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://raw.githubusercontent.com/azetxxx/azetxxx/main/az_cover.png" />
 </p>
 
 ```python
